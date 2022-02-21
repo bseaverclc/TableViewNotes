@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E33535827BBFDFE00806864 /* DetailVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E33535727BBFDFE00806864 /* DetailVCViewController.swift */; };
 		4EB2B3B627AD7CD80007C309 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB2B3B527AD7CD80007C309 /* AppDelegate.swift */; };
 		4EB2B3B827AD7CD80007C309 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB2B3B727AD7CD80007C309 /* SceneDelegate.swift */; };
 		4EB2B3BA27AD7CD80007C309 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB2B3B927AD7CD80007C309 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E33535727BBFDFE00806864 /* DetailVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVCViewController.swift; sourceTree = "<group>"; };
 		4EB2B3B227AD7CD80007C309 /* TableViewNotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewNotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EB2B3B527AD7CD80007C309 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4EB2B3B727AD7CD80007C309 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				4EB2B3B727AD7CD80007C309 /* SceneDelegate.swift */,
 				4EB2B3B927AD7CD80007C309 /* ViewController.swift */,
 				4EB2B3BB27AD7CD80007C309 /* Main.storyboard */,
+				4E33535727BBFDFE00806864 /* DetailVCViewController.swift */,
 				4EB2B3C127AD7CDC0007C309 /* Assets.xcassets */,
 				4EB2B3C327AD7CDC0007C309 /* LaunchScreen.storyboard */,
 				4EB2B3C627AD7CDC0007C309 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E33535827BBFDFE00806864 /* DetailVCViewController.swift in Sources */,
 				4EB2B3BA27AD7CD80007C309 /* ViewController.swift in Sources */,
 				4EB2B3B627AD7CD80007C309 /* AppDelegate.swift in Sources */,
 				4EB2B3B827AD7CD80007C309 /* SceneDelegate.swift in Sources */,
